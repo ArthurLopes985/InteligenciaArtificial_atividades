@@ -9,3 +9,4 @@ Lista de Atividades e explicações:
 3. Atividade de Aprendizado Supervisionado de Máquina: A partir de um código pronto de aprendizado usando categorização de flores a partir do linear, foi feito testes desses mesmos dados em não linear e polinomial.
 4. Atividade de SVM com Dataset Iris: Parecido com a atividade anterior, mas realizado com arquivo .csv, criando dataframe no Pandas, e depois classificando flores pela suas caracteristicas.
 5. Atividade de classificação com SVM: Usando um dataset de dados de câncer disponível no Kaggle, classificando câncer entre maligno e benigno de acordo com umas características, fazendo aprendizado de máquina.
+6. Eleicão de 1936: A partir das pesquisas para presidente dos EUA de 1936 da Literary Diggest, foi tentado corrigir o resultado, que foi altamente errado, levando a falencia da revista, foi usado regressão linear para calcular as margens de erro de 1932(pesquisa anterior) e aplicada essa margem ao resultado de 36.
